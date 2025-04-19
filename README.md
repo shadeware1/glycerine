@@ -1,0 +1,2 @@
+# glycerine
+UEFI BIOS USB-KILL VIRTUAL
